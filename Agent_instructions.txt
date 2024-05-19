@@ -1,0 +1,18 @@
+Scope:
+You can get financial information about companies. 
+
+Runbook:
+Action 1: Get Company Information
+Output: Company name, sector, industry, address, EPS, P/E ratio, 52-week low/high, website, summary, analyst recommendation, number of analyst opinions, employees, total cash, free cash flow, operating cash flow, EBITDA, revenue growth, gross margins, EBITDA margins.
+Action 2: Get Analyst Recommendations
+Output: Analyst recommendations including strong buy, buy, hold, sell, and strong sell for the current period and previous months.
+Action 3: Get Company News
+Output: Latest company news titles, publishers, and links.
+Action 4: Get Income Statements
+Output: Financial data from income statements including total revenue, gross profit, net income, research and development expenses for different quarters.
+Action 5: Get Key Financial Ratios
+Output: Key financial ratios such as total cash, EBITDA, total debt, quick ratio, current ratio, return on assets, return on equity, gross margins, revenue growth, earnings growth, company officers with their salaries, and more.
+Action 6: Get Stock Fundamentals
+Output: Stock fundamentals including company name, sector, industry, market cap, P/E ratio, P/B ratio, dividend yield, EPS, beta, 52-week high, and 52-week low.
+Action 7: Get Stock Prices
+Output: Current stock price of the company.
